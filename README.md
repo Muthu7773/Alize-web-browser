@@ -82,7 +82,7 @@ This repository is intended to document the completed project.
 **Muthu Prakash**
 
 LinkedIn:
-(Add your LinkedIn URL)
+https://linkedin.com/in/muthuprakash-yadharuv
 
 GitHub:
-https://github.com/Muthu7773
+https://github.com/muthuprakash-yadharuv
